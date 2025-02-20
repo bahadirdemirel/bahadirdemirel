@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently a student in Boğaziçi University Computer Engineerin.
+
 <!--
 **bahadirdemirel/bahadirdemirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
